@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PPI Calculator</string>
+    <string name="width_prompt">Width of display (in px)</string>
+    <string name="height_prompt">Height of display (in px)</string>
+    <string name="size_prompt">Size of display (in inch)</string>
+    <string name="result_prompt">Result (PPI)</string>
+    <string name="reset_label">Reset</string>
+    <string name="calculate_label">Calculate</string>
+    <string name="round_result">Round result</string>
+    <string name="result_label">Result:</string>
+
+</resources>
